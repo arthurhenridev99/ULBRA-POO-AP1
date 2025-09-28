@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.CircuitoDeResistencias.test;
 
-import academy.ap1.domain.CircuitoDeResistencias;
+import academy.ap1.CircuitoDeResistencias.domain.CircuitoDeResistencias;
 
 public class CircuitoDeResistenciasTest01 {
     public static void main(String[] args) {

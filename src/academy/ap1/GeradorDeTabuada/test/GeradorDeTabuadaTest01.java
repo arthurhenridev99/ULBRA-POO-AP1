@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.GeradorDeTabuada.test;
 
-import academy.ap1.domain.GeradorDeTabuada;
+import academy.ap1.GeradorDeTabuada.domain.GeradorDeTabuada;
 
 public class GeradorDeTabuadaTest01 {
     public static void main(String[] args) {

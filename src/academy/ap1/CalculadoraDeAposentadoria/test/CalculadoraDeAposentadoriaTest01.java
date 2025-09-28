@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.CalculadoraDeAposentadoria.test;
 
-import academy.ap1.domain.CalculadoraDeAposentadoria;
+import academy.ap1.CalculadoraDeAposentadoria.domain.CalculadoraDeAposentadoria;
 
 public class CalculadoraDeAposentadoriaTest01 {
     public static void main(String[] args) {

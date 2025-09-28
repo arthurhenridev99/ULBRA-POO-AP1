@@ -1,4 +1,4 @@
-package academy.ap1.domain;
+package academy.ap1.CalculadoraDeDesconto.domain;
 
 import java.util.Scanner;
 

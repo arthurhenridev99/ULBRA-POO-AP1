@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.CalculadoraDeDesconto.test;
 
-import academy.ap1.domain.CalculadoraDeDesconto;
+import academy.ap1.CalculadoraDeDesconto.domain.CalculadoraDeDesconto;
 
 public class CalculadoraDeDescontoTest01 {
     public static void main(String[] args) {

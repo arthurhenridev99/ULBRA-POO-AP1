@@ -1,4 +1,4 @@
-package academy.ap1.domain;
+package academy.ap1.CalculadoraDeAposentadoria.domain;
 
 import java.util.Scanner;
 

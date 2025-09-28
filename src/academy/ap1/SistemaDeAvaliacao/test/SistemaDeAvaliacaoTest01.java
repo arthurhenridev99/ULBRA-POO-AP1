@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.SistemaDeAvaliacao.test;
 
-import academy.ap1.domain.SistemaDeAvaliacao;
+import academy.ap1.SistemaDeAvaliacao.domain.SistemaDeAvaliacao;
 
 public class SistemaDeAvaliacaoTest01 {
     public static void main(String[] args) {

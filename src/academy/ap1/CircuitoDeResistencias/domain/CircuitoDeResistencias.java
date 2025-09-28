@@ -1,4 +1,4 @@
-package academy.ap1.domain;
+package academy.ap1.CircuitoDeResistencias.domain;
 
 public class CircuitoDeResistencias {
     private double resistencia1;

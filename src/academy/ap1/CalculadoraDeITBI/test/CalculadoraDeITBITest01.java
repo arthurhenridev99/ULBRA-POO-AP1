@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.CalculadoraDeITBI.test;
 
-import academy.ap1.domain.CalculadoraDeITBI;
+import academy.ap1.CalculadoraDeITBI.domain.CalculadoraDeITBI;
 
 public class CalculadoraDeITBITest01 {
     public static void main(String[] args) {

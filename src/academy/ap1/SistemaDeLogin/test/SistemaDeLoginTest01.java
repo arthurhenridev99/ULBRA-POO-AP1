@@ -1,6 +1,6 @@
-package academy.ap1.test;
+package academy.ap1.SistemaDeLogin.test;
 
-import academy.ap1.domain.SistemaDeLogin;
+import academy.ap1.SistemaDeLogin.domain.SistemaDeLogin;
 
 public class SistemaDeLoginTest01 {
     public static void main(String[] args) {
