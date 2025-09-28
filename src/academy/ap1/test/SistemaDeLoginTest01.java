@@ -1,0 +1,12 @@
+package academy.ap1.test;
+
+import academy.ap1.domain.SistemaDeLogin;
+
+public class SistemaDeLoginTest01 {
+    public static void main(String[] args) {
+        SistemaDeLogin sistemaDeLogin = new SistemaDeLogin();
+
+        sistemaDeLogin.cadastro();
+        sistemaDeLogin.verificacao();
+    }
+}
